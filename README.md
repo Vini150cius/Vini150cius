@@ -8,7 +8,7 @@
 ---
 ### ⚙️ GitHub Analytics
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td>
       <img
@@ -41,13 +41,17 @@
   </tr>
 </table>
 
-![](https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+<img
+        align="center"
+        src="![stats](github-metrics.svg)"
+        alt="Github Stats"
+      />
+
 
 --- 
 ### 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,react,next,cs,mysql,python,illustrator,photoshop,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,cs,react,next,mysql,python,illustrator,photoshop,figma,git)](https://skillicons.dev)
 
 ---
-
-
