@@ -20,7 +20,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats-seven-phi-20.vercel.app/api/top-langs/?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://stats-ebon.vercel.app/api/top-langs/?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
