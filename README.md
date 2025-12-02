@@ -13,35 +13,35 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats-seven-phi-20.vercel.app/api/top-langs/?username=Vini150cius&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini150cius&stats_format=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-seven-phi-20.vercel.app/api/top-langs/?username=Vini150cius&stats_format=compact&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"
+        src="https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false"
         alt="Github Stats"
       />
     </td>
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 --- 
 ### 🚀 Minhas Skills
