@@ -41,6 +41,8 @@
   </tr>
 </table>
 
+![](https://github-readme-stats.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 --- 
 ### 🚀 Minhas Skills
 
