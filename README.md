@@ -43,7 +43,7 @@
 
 ![](https://github-readme-stats-seven-phi-20.vercel.app/api?username=Vini150cius&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 <img
-        align="center"
+        style="justify-content: center; display: flex; margin-left: auto; margin-right: auto; align-items: center;"
         src="github-metrics.svg"
         alt="Github Stats"
       />
