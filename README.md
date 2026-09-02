@@ -52,6 +52,6 @@
 --- 
 ### 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,php,java,cs,react,next,mysql,python,illustrator,photoshop,figma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,cs,react,mysql,illustrator,photoshop,figma,git)](https://skillicons.dev)
 
 ---
