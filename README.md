@@ -32,9 +32,9 @@ Gosto de transformar aprendizado em projetos práticos, evoluindo continuamente 
 
 <td width="100%" align="center">
 
-<table>
+<table style="border: none;">
 <tr>
-<td align="center" width="25%"><strong>📍 Itu - SP</strong></td>
+<td align="center" width="25%"><strong>📍 Itu-SP</strong></td>
 <td align="center" width="25%"><a href="mailto:viniciusporto010@gmail.com"><img src="https://img.shields.io/badge/E--mail-30363D?style=flat-square&logo=gmail&logoColor=white" alt="E-mail"/></a></td>
 <td align="center" width="25%"><a href="https://www.linkedin.com/in/viniciusdelucioporto/"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></td>
 <td align="center" width="25%"><a href="https://github.com/Vini150cius"><img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a></td>
