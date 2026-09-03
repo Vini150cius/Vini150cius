@@ -1,0 +1,44 @@
+<svg width="1000" height="190" viewBox="0 0 1000 190" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="1" y="1" width="998" height="188" rx="14"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <path d="M40 45 L150 80 L260 45 L360 90"
+        stroke="#30363D"
+        stroke-width="1"/>
+
+  <path d="M640 90 L740 45 L850 80 L960 45"
+        stroke="#30363D"
+        stroke-width="1"/>
+
+  <circle cx="40" cy="45" r="3" fill="#8B949E"/>
+  <circle cx="150" cy="80" r="3" fill="#8B949E"/>
+  <circle cx="260" cy="45" r="3" fill="#8B949E"/>
+  <circle cx="360" cy="90" r="3" fill="#8B949E"/>
+
+  <circle cx="640" cy="90" r="3" fill="#8B949E"/>
+  <circle cx="740" cy="45" r="3" fill="#8B949E"/>
+  <circle cx="850" cy="80" r="3" fill="#8B949E"/>
+  <circle cx="960" cy="45" r="3" fill="#8B949E"/>
+
+  <text x="500" y="93"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="36"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    Full Stack Developer
+  </text>
+
+  <text x="500" y="125"
+        text-anchor="middle"
+        fill="#8B949E"
+        font-size="16"
+        font-family="Segoe UI, Arial, sans-serif">
+    Análise e Desenvolvimento de Sistemas
+  </text>
+
+</svg>

@@ -1,0 +1,88 @@
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="1" y="1" width="758" height="218" rx="16"
+        fill="#161B22"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <circle cx="66" cy="66" r="36"
+          fill="#21262D"
+          stroke="#30363D"
+          stroke-width="2"/>
+
+  <rect x="48" y="50" width="36" height="30" rx="2"
+        stroke="#C9D1D9"
+        stroke-width="3"
+        fill="none"/>
+  <line x1="48" y1="60" x2="84" y2="60" stroke="#C9D1D9" stroke-width="2"/>
+  <line x1="60" y1="60" x2="60" y2="80" stroke="#C9D1D9" stroke-width="2"/>
+
+  <text x="120" y="60"
+        fill="#F0F6FC"
+        font-size="32"
+        font-weight="700"
+        font-family="Segoe UI, Arial, sans-serif">
+    Zeno
+  </text>
+
+  <text x="120" y="92"
+        fill="#8B949E"
+        font-size="19"
+        font-family="Segoe UI, Arial, sans-serif">
+    ERP web para microempreendedores (TCC)
+  </text>
+
+  <line x1="38" y1="120" x2="722" y2="120"
+        stroke="#30363D"
+        stroke-width="2"/>
+
+  <rect x="40" y="148" width="150" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+  <text x="115" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    JavaScript
+  </text>
+
+  <rect x="205" y="148" width="140" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+  <text x="275" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    React
+  </text>
+
+  <rect x="360" y="148" width="150" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+  <text x="435" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    PostgreSQL
+  </text>
+
+  <rect x="525" y="148" width="130" height="42" rx="8"
+        fill="#21262D"
+        stroke="#30363D"/>
+  <text x="590" y="175"
+        text-anchor="middle"
+        fill="#F0F6FC"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif">
+    Vite
+  </text>
+
+</svg>
