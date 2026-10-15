@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Vinicius de L&#250;cio Porto&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 134, Total PRs: 6, Total Issues: 35, Contributed to (last year): 7</desc>
+        <title id="titleId">Vin&#237;cius de Lucio Porto&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 139, Total PRs: 6, Total Issues: 35, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 190.0810814272352;
+        stroke-dashoffset: 189.68335434333852;
       }
     }
   
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Vinicius de L&#250;cio Porto&#39;s GitHub Stats</text>
+      >Vin&#237;cius de Lucio Porto&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >134</text>
+      >139</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
